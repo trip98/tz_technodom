@@ -1,0 +1,17 @@
+.buttons {
+	float:right;
+}
+.products {
+	width: 1000px;
+	margin: auto;
+}
+.product {
+	float:left;
+	width:200px;
+	text-align: center;
+	border: 1px solid #000;
+	margin: 20px;
+}
+.product div {
+	text-align: left;
+}
